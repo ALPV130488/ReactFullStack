@@ -1,0 +1,764 @@
+
+
+0-off ; 1-on		----------->ASCII/UNICODE
+
+PROGRAMS:-set of instruction
+
+				computer langus
+				
+	programming lang			scripting lang
+	oop			pop								html,css ,js
+java,.net	
+	
+p.l:-used to develop softwares
+
+s.l:-used to desingining webpages
+
+
+		website= collection of webpages
+
+
+oopl    oops
+
+
+inheritace,ploymorphism:-CODE REUSABILITY
+
+Abstraction;Encapsulation:-SECURITY
+
+
+					HTML
+	
+	HTML:-Hyper Text Markup Language
+	
+	
+	<tags>
+	
+	2 types:-
+	
+	(1)Container tag/ couple:-<head></head>
+	
+	(2)Single tag:-<br> 
+	
+	
+	<head class="attribute">	Statements	</head>
+	
+Numbering & Bullets	
+
+			Lists	-----><li></li>
+	
+(Numbering)	ordered list			unordered list(Bullets)
+		
+	<ol></ol>							<ul></ul>
+
+
+
+Table:-
+
+table :-<table></table>
+row :- <tr></tr>
+column :-<td></td>
+table headings:-<th></th>
+tableheader :-<thead></thead>
+table footer :-<tfoot></tfoot>
+
+
+website:-collection of webpages
+
+		webpages 3 types:-
+		
+(1)static :-changes will not happens regularly
+
+(2)dynamic :-changes will happens regularly 
+
+(3)server :-The data from static & dynamic webpages will get stored here.
+
+Link tag:-
+
+		(1)text
+		
+		(2)Image
+
+
+								CSS
+								===
+								
+	3 ways to inject css:-
+	
+	(1)Inline Styling:-	sytling will be injected in the same tag
+	
+	(2)Internal Styling:-using seperate <style> tag in the <head> tag
+	
+	(3)External Styling:-using external .css sheet
+	
+	
+	
+	colors in css:-
+	
+	(1)color name   :-red,green
+	
+	(2)hexadecimal format :-#(00-ff)(00-ff)(00-ff)
+	
+	(3)rgb function  :-rgb(r,g,b)
+	
+	(4)rgb function with alpha :-rgb(r,g,b,(0.0-1.0))
+	
+	(5)hsl function :-hsl(0-360)(0-100%)(0-100%)()
+	
+	(6)hsl function with alpha :-hsl(0-360)(0-100%)(0-100%)(0.0-1.0)
+	
+	
+	selectors:-
+	
+	
+	(1)tag name :-h1,body,p
+	
+	(2)id name :-	(#id name)
+	
+	(3)class :- (.classname)
+	
+	(4)universal :- *
+	
+	javascript:-
+	
+	(1)To create dynamic webpages
+	
+	(2)To change the html content
+	
+	(3)To change the html attributes
+	
+	(4)To change the css styling 
+	
+	to check the o/p's in js:-
+	
+	(1).innerHtml :- it will display's the o/p using id name[document.getElementById]
+	
+	(2)document.write :- it will display's the o/p injected through parameters
+	
+	(3)window.alert :- it will display's the o/p through an alert box
+	
+	(4)console.log :- it will dispaly's o/p in the console window.
+	
+	<sciprt>	:- 	 can be induced in the <head> and <body> tags.
+	
+	function:-syntax:-
+	
+			function functionname(params...){
+			//body
+			}
+			
+			
+			
+	var:-
+	
+			number
+			
+			string
+			
+			char
+			
+			object
+			
+	
+				var varname = value;
+				
+				
+				
+				
+	bootstrap:-	 to get bootstrap to our html document
+	
+	(1)through cdn(Content Delivery Network)
+	
+	(2)by downloading bootstrap .
+	
+	
+	
+	
+	Bootstrap Grid System:-class:-Container
+	
+	12 columns
+
+
+	(1)col -
+	
+	(2)col-sm- 
+	
+	(3)col-xl-1
+	
+	
+	Nav bar :- nav tag,class:-nav /navbar
+	
+					nav item:- class nav-item
+					
+
+	badges:-tag:-span;class=badge
+			
+	
+	list:-class=list-group
+	
+					class=list item
+					
+					
+		forms:-class=form-group
+		
+		class=form-control
+		
+		
+		React:-
+		
+			(1)Component based architecture (cba):-block
+			
+			node ------------>npm (node pacakage manager)
+			
+			To create a react app/project:-
+			
+			cmd> npx create-react-app sample
+			
+			component:-
+			
+			(1)Stateless Functional Component:-props
+			
+			(2)Stateful class component :-state={
+												a:10,b:19
+													}
+													
+										{this.state.a}			
+										
+										
+										
+										
+			function hello(props){					
+													</hello banner="value" >
+			{props.banner}	
+			
+			}
+			
+			add(int a,int b){
+			
+			}
+			
+			
+			
+			obj.add(2,4)
+			
+			
+	summary:-
+
+	prop:-Properties are nothing but tag attributes, which can be used to pass the data 
+				from one component to another component.
+				
+				
+	state:-It's a local variable of the component,which is by default encapsulation	to it's own component.
+
+			class component  :- state (to set the state)
+			
+			functional component :- useState(to set the state)
+			
+			To update the state values :- setState
+			
+	event :-Action perfroming by the end user on our webpage
+	
+	<ul>
+	<li><li>
+			
+			
+			react js:-{}
+			
+			a={1,2,34,4}
+			
+		jsx
+		
+		for(int x:a){
+		x=x*2;
+		
+		
+		}
+		
+		
+		
+									java:-
+									====
+	0,1----->binary lang----------->Ascii/Unicode
+
+0-9----->decimal 
+
+programming lang:-programs:-set of instructions
+						
+						
+						computer lang
+						
+				scripting lang			programming lang
+				
+									pop					oop
+									
+								Basic,....			java,.net,
+s.l:-designing the websites
+
+p.l:-developing the softwares
+
+
+oops------------>oopl
+
+
+Inheritance,Polymorphism:-great performance
+
+Abstraction,Encapsulation:-Security
+
+
+java:-
+
+Platform Independent:-wora
+
+garbage collector:-
+
+
+history:-
+
+sun microsystems:-							oracle
+green team(green talk(.gt))----->oak------>java(.java)
+
+jdk 1.0---------8,11,17---------------------------jdk 21
+
+3 editions:-
+
+
+jse/j2se:-( no client-server)core java
+
+jee/j2ee:-(client-server)-->distributed app[advanced java]
+
+jme/j2me:-mobile app
+
+						variables:-
+						=========
+						
+				local 				global
+							static 			instance
+							
+							
+		 datatypes varname = value;
+		
+		
+syntax:-  
+======
+
+static:-		static datatypes varname = value;
+
+instance:-      datatypes varname = value;
+
+
+memory:-
+=======
+		
+static:-The memory space will be allocated only once at the time of class loading in to the jvm.
+
+instance:- The memory space will be allocated for every object creation.
+
+
+					class(data member's + mem functions)                 object
+		
+		Note:- for 1 class we can crete n no:-of objects
+		
+		
+
+Access :-
+=====
+
+static:-  to call static prop's we need to call with class reference				classname.varname
+
+instance :- to call instance prop's we need to call with obj reference				obj.varname
+
+
+			
+	Object creation :- 				Classname obj name = new Classname();
+		
+		
+
+
+Memory in jvm:-
+=============
+
+static :- Mehtod area
+
+instance:- Heap area
+
+
+Usage:-
+======
+
+
+static:-to store common values  ex:-giving naatinalilty value
+
+instance:- to store unique data 		ex:-to store unique values like id number
+
+
+								datatypes:-
+								
+					primitive(predefined) 			non-primitive(user defined)
+					
+			numeric					non-numeric		class,arrays......
+		
+	integers			decimal		bollean
+	
+	byte  				float		char
+						double		
+	short
+	
+	int 
+	
+	long			int var = 1	
+
+					int bike =1					class Bike
+	
+	Operators:-		(ULTRA AB)
+	===========
+	
+								a+b
+	Uniary		:- using only one operand ++,--,-
+	
+	Logical		:-
+	
+	Ternary		:- 	?
+
+	
+	Relational 	:- 
+	
+	Assignment	:-	=,==
+	
+	Arithematic :-
+	
+	Bitwise		:-
+	
+	
+	
+	methods:-set of statements all together will perform same task
+	
+	
+	sytanx/signature:-
+				
+				
+				accessmodifier	returntype methodname(params...){
+				
+				//body
+				}
+					
+	
+	
+		static methods								dynamic/instance methods
+		
+		
+static:-	
+
+
+			accessmodifier static	returntype methodname(params...){
+				
+				//body
+				}
+	
+	
+				class= variables + Methods +Constructors	------>
+				
+						datamembers + Memberfunctions
+						
+						
+				className 	objname = new className();		------->obj creation
+				
+		
+		
+		OOPS FEATURES:-
+		
+		
+		INHERITANCE :- Accquring parent class features to the child class.
+		
+					
+					*CODE REUSABILITY
+					
+		
+		
+				extends 							implements
+				
+			class-->class						interface ---->class
+			interface--->interface
+		
+		
+		class A		//parent/super
+		
+			
+						
+		calss B		//child/sub/base
+		
+		
+		NOTE:-
+		
+			M.I is not supported in java @ class level
+			
+			M.I is supported in java @ Interface level
+			
+			
+			
+		method based implementation:-2 types
+		
+		(1)concrete method :-we need to provide the method implementation(with body)
+		
+				a.m r.t metname(params..){
+				//body(or ) method implementation
+				}
+		(2)abstract method:-No method implementation(without body)
+		
+				a.m r.t metname(params...);
+				
+				
+				
+				
+				
+				
+		class :- it's  completely  the collection of only concrete methods.
+		
+		
+		interface :- it's completely the collection of only abstract methods.
+		
+		
+		abstract class :-collection both concrete methods  + abstract methods
+				
+				
+		* For every java file the parent class is "java.lang.Object" class
+		
+		* The default package for every java file is "java.lang"
+		
+		
+		
+		Abstraction:-	Hiding the data.			* SECURITY
+		
+		
+		interface:- 100%
+		
+		abstract classes:- 0%-100%
+		
+		class :-0%
+		
+		
+		Polymorphism:-		* CODE REUSABILITY
+		
+		(1)MethodOverloading :-same method name but difference in parameters
+		====================						(1)type of params..
+													(2)order of params..
+													(3)No:-of params...
+		
+		
+
+		typecasting:-Assigning one type of variable value to another type of variable
+		===========
+		
+		implicit typecasting:-(automatic)
+		
+		
+		explicit typecasting:-(manually)
+		
+		
+			(2)MethodOverriding	:-same method name but implementation is different
+			===================
+			
+			
+			class Parent {
+			
+			1000Cr(){
+			}
+			
+			Heritage(){
+			
+			}
+			
+			marriage(){
+			
+			"Kajol"
+			}
+			
+			}
+			
+			class Child extends Parent{
+			
+			
+			@Override
+			marriage(){
+			"deepika"
+			}
+			
+			
+			}
+			
+			
+			Encapsulation:-Wrraping of similar data into a single unit.
+					
+					
+					* FOR SECURITY
+					
+					
+		Constructors:-To initialize the objects.
+		
+			class obj = new class();
+			
+			(1)default constr
+			
+					syntax:-
+					
+							a.m calssName(){
+							//body
+							}
+			
+			(2)Param's constr
+			
+					syntax:-
+					
+							a.m calssName(params...){
+							//body
+							}
+			
+	Exception :-
+	
+				(1)Human friendly error msg's.
+				
+				(2)To terminate our code in a normal way.
+			
+					
+				
+				
+		Arrays:-
+		
+				to create an array:-
+				
+				
+				(1) int arr[] =new int[6];
+				
+				a[2]=56;
+				
+				(2)int arr[] = {234,45,56,8,78,9};
+				
+				(3)int arr[] = new int[]{34,56,7,8,8,9,9,0}
+				
+				
+				(1)It will accept only homogenous data
+				(2)There are no utility methods
+				(3)It is fixed size ,it can't be altered.
+				
+				
+			collections:-  (framework)
+			===========
+				
+				
+				(1)It will accept both homogenous and heterogeneous data.
+				
+				(2)There are lots of utility methods.
+				
+				(3)It's growable in nature.
+				
+				
+		file handling:-
+		=============
+		
+		java.io
+		
+		To create a file:-	File
+		
+		To write into a file :- FileWriter
+								BufferedWriter
+								PrintWriter
+								
+		To read from a file :- FileReader
+								BufferedReader
+		
+		Date API:-
+		
+		java.util.Date;
+		
+		
+		String:-
+		
+		
+			String(immutable)					StringBuffer(mutable)			StrigBuilder(mutable)
+													synchronised						Asynchronised
+			
+			
+		
+		
+				Thread:-
+				=======
+				
+		synchronised:-one after anoter	task
+
+						(1)No data
+						
+						(2)Time taking
+						
+						
+		
+		
+		Asynchronised:-more than one task will goes on(multitasking)
+		
+						(1)Data loss
+						
+						(2)Less Time
+						
+		MultiTasking:-Exceuting Several tasks simultaneously.
+		============
+							(1)Process based MultiTasking
+							
+							(2)Thread based MultiTasking
+							
+							
+		Process based MultiTasking:-Exceuting Several tasks simultaneously 
+									where each task is independent of each other.
+									
+		Thread based MultiTasking:-Exceuting Several threads simultaneously 
+									where each task is dependent of each other.
+									
+									
+					(1)Implementing Runnable
+					
+					(2)Extending Thread
+									
+									
+									Database:-
+									=========
+		
+	Data:-Raw info of any real entites.
+	
+	DataBase:-It's the organized collection of data to store 
+		
+									
+		apple	453			
+		
+		grapes	454
+					
+		oranges 485							
+		
+	RDBMS:-TABLES=Row(Records) + Columns(fields)
+	
+	
+	Query :- 5 types:-
+	
+	
+	DDL(Data Definition Language):-create,alter,drop,truncate,rename		auto-commited
+	
+	DML(Data Manipulation Language):-insert,update,delete			not auto-commited
+	
+	DRL(Data Retrival Language):-select
+	
+	DCL(Data Control Language):-grant,revoke
+	
+	TCL(Transaction Control Language):-commit,rollback
+		
+		To create an account:-
+		
+		cmd>conn /as sysdba;
+		
+		cmd>create user username identified by password;
+		
+		cmd>grant connect, resource to username;
+		
+		cmd>conn username/password;
+		
+		truncate:-deletes all the records(rows)
+		
+		drop :-delete the entire table
+		
+		delete :-deletes the selected/all the rows.
+		
+		
